@@ -1,7 +1,3 @@
-README.md
-
-Parth Mehul Desai -hw2
-
 Done using cloudera vm
 
 Install jdk 1.8 on cloudera
